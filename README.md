@@ -7,7 +7,7 @@ The dataset used for this analysis is sourced from [Kaggle](https://www.kaggle.c
 
 ## Dashboard Overview
 
-![Final Dashboard]()
+![Final Dashboard](Final_Dashboard.jpg)
 
 ### Components
 
